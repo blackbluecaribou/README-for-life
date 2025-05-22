@@ -1,0 +1,19 @@
+intro:
+  - image_path: /assets/images/discord_unicorn_me.png
+    alt: "Jason"
+    title: "Welcome"
+    excerpt: "I'm Jason Vanderburg, and this site is my personal README—where I learn, think, and share."
+
+links:
+  - title: "Essays"
+    url: /essays/
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - title: "Projects"
+    url: /projects/
+    btn_label: "Explore"
+    btn_class: "btn--primary"
+  - title: "About Me"
+    url: /about/
+    btn_label: "Get to Know Me"
+    btn_class: "btn--primary"
