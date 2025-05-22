@@ -17,3 +17,6 @@ links:
     url: /about/
     btn_label: "Get to Know Me"
     btn_class: "btn--primary"
+    url: /resume/
+    btn_label: "Check My Stats"
+    btn_class: "btn--primary"
