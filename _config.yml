@@ -4,7 +4,7 @@ description: "Jason Vanderburg’s digital notebook of ideas, essays, and experi
 show_downloads: true
 url: "https://blackbluecaribou.github.io"
 baseurl: "/README-for-life"
-theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal-mistakes
 
 plugins:
   - jekyll-feed
