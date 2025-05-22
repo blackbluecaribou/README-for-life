@@ -1,13 +1,3 @@
----
-layout: home
-title: "Welcome"
-excerpt: "A digital portfolio of essays, insights, and ideas."
-header:
-  overlay_image: /assets/images/header-background.jpg
-  overlay_filter: "0.3"
-  caption: "📚 Exploring ideas with care"
----
-
 # 👋 Hello, I’m Jason Vanderburg
 
 Systems thinker, ethical builder, and beard-haver. This is my digital portfolio—a home for writing, projects, and the occasional philosophical ramble.
