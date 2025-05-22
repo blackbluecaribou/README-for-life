@@ -12,3 +12,8 @@ plugins:
   - jekyll-sitemap
   - jemoji
   - jekyll-remote-theme
+
+collections:
+essays:
+  output: true
+  permalink: /essays/:title/
