@@ -1,5 +1,14 @@
-title: Jason Vanderburg
+title: README-for-life
 #logo: /assets/img/headshot.png
-#description: text below image
+description: "Jason Vanderburg’s digital notebook of ideas, essays, and experiments."
 show_downloads: true
+url: "https://blackbluecaribou.github.io"
+baseurl: "/README-for-life"
 theme: jekyll-theme-minimal
+
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jemoji
+  - jekyll-remote-theme
