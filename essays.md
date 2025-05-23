@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Essays
-permalink: /essays/
+permalink: README-for-life/essays/
 ---
 
 # Essays
