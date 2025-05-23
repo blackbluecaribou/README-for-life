@@ -1,0 +1,14 @@
+/* Restrict image sizes */
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Specific styling for your profile image */
+.profile-pic {
+    max-width: 150px;
+    height: auto;
+    border-radius: 50%;
+    display: block;
+    margin: 1rem auto;
+}
