@@ -2,7 +2,7 @@
 layout: single
 title: "Deportation and Digital Control: Ethics, Privacy, and Security Under the 2025 Trump Administration"
 author: Jason Vanderburg
-date: 2025-05-0701
+date: 2025-05-01
 excerpt: "My personal narrative exploring the moment I truly committed to recovery."
 permalink: /essays/deportation-digital-control-2025-trump/
 ---
