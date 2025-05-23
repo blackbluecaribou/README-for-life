@@ -7,9 +7,9 @@ excerpt: "Social media and epistemic warfare."
 permalink: /essays/war-for-truth/
 ---
 
-**Jason Vanderburg**
-*College Writing II*
-*Dr. Uraina Pack*
+**Jason Vanderburg**  
+*College Writing II*  
+*Dr. Uraina Pack*  
 *17 Apr 2025*
 
 ## War For Truth: Redefining Social Media in a Manipulated Age
