@@ -164,6 +164,7 @@ img {
 }
 
 header {
+    text-align: center;
     width: 270px;
     float: left;
     position: fixed;
@@ -335,9 +336,4 @@ screen and (max-width: 480px) {
         font-size: 12pt;
         color: #444;
     }
-}
-
-/* attempt to center pofile pic */
-header {
-    text-align: center;
 }
