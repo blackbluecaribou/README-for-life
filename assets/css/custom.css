@@ -336,3 +336,8 @@ screen and (max-width: 480px) {
         color: #444;
     }
 }
+
+/* attempt to center pofile pic */
+header {
+    text-align: center;
+}
