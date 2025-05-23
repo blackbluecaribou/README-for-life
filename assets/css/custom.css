@@ -4,14 +4,14 @@ img {
     height: auto;
 }
 
-/* Specific styling for your profile image 
+/* Specific styling for your profile image */
 .profile-pic {
-    max-width: 200px;
-    height: auto;
+    /* max-width: 200px;
+    height: auto; */
     border-radius: 12%;
-    display: block;
+    /* display: block;
     margin-top: 0.5rem;
-    margin-bottom: 1rem;
+    margin-bottom: 1rem; */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
     transition: transform 0.3s ease;
 }
@@ -20,12 +20,12 @@ img {
     transform: scale(1.05);
 }
 
-header img.profile-pic {
+/* header img.profile-pic {
     margin-left: auto;
     margin-right: auto;
-    display: block;
+    display: block; */
 }
-*/
+
 body {
     background-color: #fff;
     padding: 50px;
