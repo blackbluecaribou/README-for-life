@@ -16,4 +16,4 @@ plugins:
 collections:
   essays:
     output: true
-    permalink: /README-for-life/essays/:title/
+    permalink: /essays/:title/
