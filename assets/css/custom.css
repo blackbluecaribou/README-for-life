@@ -6,11 +6,17 @@ img {
 
 /* Specific styling for your profile image */
 .profile-pic {
-    max-width: 150px;
+    max-width: 200px;
     height: auto;
     border-radius: 50%;
     display: block;
     margin: 1rem auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+    transition: transform 0.3s ease;
+}
+
+.profile-pic:hover {
+    transform: scale(1.05);
 }
 
 body {
