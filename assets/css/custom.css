@@ -4,7 +4,7 @@ img {
     height: auto;
 }
 
-/* Specific styling for your profile image */
+/* Specific styling for your profile image 
 .profile-pic {
     max-width: 200px;
     height: auto;
@@ -25,7 +25,7 @@ header img.profile-pic {
     margin-right: auto;
     display: block;
 }
-
+*/
 body {
     background-color: #fff;
     padding: 50px;
