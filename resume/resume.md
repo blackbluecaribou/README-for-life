@@ -38,11 +38,11 @@ Resourceful and hands-on professional with a 4.0 GPA in Computer Information Sys
 - Improved client satisfaction through reliable, efficient service
 
 ### **E-Commerce Manager**  
-*Uniquely Greener MA Inc – Erie, PA*  
+*Uniquely Greener MA Inc – Remote*  
 *July 2018 – July 2021*  
-- Directed all eCommerce operations; achieved 300% growth  
+- Directed all eCommerce operations, driving scalable systems and long-term profitability  
 - Built custom PO and inventory system, improving efficiency  
-- Led digital marketing (PPC, SEO, email), increasing visibility  
+- Increased visibility leading to 300% sales growth over 24 months by leading digital marketing campaigns   
 - Streamlined fulfillment, reducing returns and shipping delays  
 - Filed business tax returns monthly and quarterly  
 - Developed scalable vendor payment and reporting system
