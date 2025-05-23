@@ -9,8 +9,8 @@ img {
     /* max-width: 200px;
     height: auto; */
     border-radius: 12%;
-    /* display: block;
-    margin-top: 0.5rem;
+    display: block;
+    /* margin-top: 0.5rem;
     margin-bottom: 1rem; */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
     transition: transform 0.3s ease;
@@ -23,8 +23,8 @@ img {
 /* header img.profile-pic {
     margin-left: auto;
     margin-right: auto;
-    display: block; */
-}
+    display: block; 
+} */
 
 body {
     background-color: #fff;
