@@ -6,7 +6,7 @@ Systems thinker, ethical builder, and beard-haver. This is my digital portfolio�
 
 ## 🔍 Explore
 
-- 📝 [Essays](/README-for-life/essays/)
+- 📝 [Essays](https://jason-vanderburg.github.io/README-for-life/essays/)
 - 🧠 [Ideas](/ideas/)
 - ⚙️ [Projects](/projects/)
 - 📚 [Reading List](/reading/)
