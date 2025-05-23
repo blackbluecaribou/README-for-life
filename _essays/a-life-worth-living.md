@@ -4,7 +4,6 @@ title: "A Life Worth Living: My Turning Point in Addiction Recovery"
 author: Jason Vanderburg
 date: 2025-02-07
 excerpt: "My personal narrative exploring the moment I truly committed to recovery."
-collection: essays
 permalink: /essays/a-life-worth-living/
 ---
 
