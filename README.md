@@ -6,7 +6,7 @@ Systems thinker, ethical builder, and beard-haver. This is my digital portfolio�
 
 ## 🔍 Explore
 
-- 📝 [Essays](main/essays/)
+- 📝 [Essays](README-for-life/essays/)
 - 🧠 [Ideas](/ideas/)
 - ⚙️ [Projects](/projects/)
 - 📚 [Reading List](/reading/)
