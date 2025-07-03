@@ -2,7 +2,7 @@ title: README-for-life
 logo: /assets/images/headshot.png
 description: "Jason Vanderburg’s digital notebook of ideas, essays, and experiments."
 show_downloads: true
-url: "https://jason-vanderburg.github.io"
+url: "https://jason-vanderburg.github.io/README-for-life"
 baseurl: "/README-for-life"
 theme: jekyll-theme-minimal
 
