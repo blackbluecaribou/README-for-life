@@ -24,4 +24,4 @@ This site exists to track growth, document thoughts, and share knowledge. It’s
 ## 🔗 Connect
 
 - 📧 jason.vanderburg@icloud.com
-- 🌐 [GitHub](https://github.com/blackbluecaribou)
+- 🌐 [GitHub](https://github.com/jason-vanderburg)
