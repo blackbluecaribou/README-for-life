@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "About Me"
 permalink: /about/
 ---
@@ -19,4 +19,4 @@ I’m not looking to work for companies that chase profit at the expense of peop
 **I care about meaningful work, practical solutions, and leaving things better than we found them.**
 
 Want to know more or see what I’ve been building?  
-Check out my [projects](/README-for-life/projects/) or visit [GitHub](https://github.com/jason-vanderburg).
+Check out my [projects](https://jason-vanderburg.githubio/README-for-life/projects/) or visit [GitHub](https://github.com/jason-vanderburg).
