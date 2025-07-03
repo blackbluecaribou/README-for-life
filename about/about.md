@@ -2,7 +2,7 @@
 ---
 layout: page
 title: "About Me"
-permalink: /about/
+permalink: /README-for-life/about/
 ---
 
 # About Me
