@@ -8,9 +8,9 @@ Systems thinker, ethical builder, and beard-haver. This is my digital portfolio�
 
 - 📝 [Essays](/README-for-life/essays/)
 - 🧠 [Ideas](/ideas/)
-- ⚙️ [Projects](/projects/)
+- ⚙️ [Projects](/README-for-life/projects/)
 - 📚 [Reading List](/reading/)
-- ✍️ [About Me](/about/)
+- ✍️ [About Me](/README-for-life/about/)
 - 📋 [View My Resume](main/resume/)
 
 ---
