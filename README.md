@@ -6,11 +6,11 @@ Systems thinker, ethical builder, and beard-haver. This is my digital portfolio�
 
 ## 🔍 Explore
 
-- 📝 [Essays](/essays)
-- 🧠 [Ideas](/ideas/)
-- ⚙️ [Projects](/projects/)
-- 📚 [Reading List](/reading/)
-- ✍️ [About Me](/about/)
+- 📝 [Essays](/README-for-life/essays)
+- 🧠 [Ideas](README-for-life/ideas/)
+- ⚙️ [Projects](README-for-life/projects/)
+- 📚 [Reading List](README-for-life/reading/)
+- ✍️ [About Me](README-for-life/about/)
 - 📋 [View My Resume](main/resume/)
 
 ---
