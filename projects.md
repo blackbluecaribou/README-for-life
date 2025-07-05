@@ -19,4 +19,15 @@ Convert standard text into Unicode superscript using an Alfred keyword trigger.
 
 ---
 
+### [FindSafariTab Alfred Workflow](https://github.com/jason-vanderburg/FindSafariTab)
+Quickly jump to any open Safari tab using an Alfred keyword.
+
+- Lists all open Safari tabs across windows  
+- Instantly activates the tab you choose  
+- No scripts in the background — triggered only when needed  
+- Works natively with AppleScript and Safari
+
+
+---
+
 *More coming soon…*
